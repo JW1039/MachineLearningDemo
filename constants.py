@@ -1,0 +1,3 @@
+PRODUCT_CATEGORIES=[
+    {"501":"Hats"}
+]
